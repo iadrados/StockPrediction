@@ -1,5 +1,6 @@
 Test*.csv
 Total*
 Final*
-*.xlsx
+*.xls
 *.zip
+.xlsx
